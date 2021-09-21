@@ -1,0 +1,23 @@
+npx react-native init mobile	// Cria um projeto React Native chamado "mobile"
+
+npx react-native run-android    // Executa app em um dispositivo android (A execução inicial demora mais tempo, mas depois é rápida)
+
+
+
+yarn add @react-native-community/async-storage
+
+yarn add @react-navigation/native
+
+yarn add @react-navigation/native-stack
+
+yarn add axios
+
+yarn add react-native-gesture-handler
+
+yarn add react-native-safe-area-context
+
+yarn add react-native-screens
+
+yarn add react-navigation
+
+yarn add styled-components  // Pacote para ajudar na estilização
