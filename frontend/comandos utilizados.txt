@@ -1,0 +1,10 @@
+npx create-react-app frontend	// Cria um projeto ReactJS chamado "frontend"
+
+yarn start 	// Executa o projeto 
+
+
+yarn add axios   // Pacote para conectar com backend
+
+yarn add react-router-dom   // Pacote para fazer rotas no ReactJS
+
+yarn add styled-components  // Pacote para ajudar na estilização
