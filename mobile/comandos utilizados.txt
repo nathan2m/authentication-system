@@ -19,5 +19,3 @@ yarn add react-native-safe-area-context
 yarn add react-native-screens
 
 yarn add react-navigation
-
-yarn add styled-components  // Pacote para ajudar na estilização
