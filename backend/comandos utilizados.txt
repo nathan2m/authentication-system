@@ -18,6 +18,8 @@ yarn add fs // Permite trabalhar com File System do Node
 
 yarn add path   // Permite trabalhar com caminhos de pasta
 
+yarn add cors   // Para autorizar qualquer app de acessar o backend
+
 // https://www.md5hashgenerator.com/
 // String: "authentication-system-nathan2m"
 // Hash MD5 gerado: "76f801af09f945f4695f8cd6bc91b8a8"
