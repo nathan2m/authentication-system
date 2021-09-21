@@ -1,0 +1,24 @@
+npm init -y     //Iniciar projeto NodeJS
+
+node src/index.js   // Iniciar servidor
+Script configurado para executar comando "Iniciar Servidor": yarn start
+
+
+yarn add express    // Pacote para ajudar na tratativa de rotas
+
+yarn add body-parser    // Pacote para ajudar o Node entender as requisições
+
+yarn add mongoose   // Pacote para o Node se conectar ao MongoDB
+
+yarn add bcryptjs   // Biblioteca para criptografar senhas
+
+yarn add jsonwebtoken   // Pacote para geração de tokens de autenticação
+
+yarn add fs // Permite trabalhar com File System do Node
+
+yarn add path   // Permite trabalhar com caminhos de pasta
+
+// https://www.md5hashgenerator.com/
+// String: "authentication-system-nathan2m"
+// Hash MD5 gerado: "76f801af09f945f4695f8cd6bc91b8a8"
+// Salvo em ./config/auth.json
